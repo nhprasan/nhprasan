@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Prasan 👋
 
-<!--
-**nhprasan/nhprasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer with industry and research experience building real-world AI systems.
+My work spans LLM-powered conversational AI, computer vision, predictive modeling, and applied robotics.
 
-Here are some ideas to get you started:
+## 🧠 Areas of Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine Learning & Model Evaluation
+- Deep Learning (PyTorch, TensorFlow, CNNs)
+- NLP & Large Language Models (BERT, SBERT, RAG, LangChain)
+- Computer Vision (Object Detection, Re-Identification)
+- Applied AI for Robotics & Healthcare
+- Cloud & Data (Azure, GCP, SQL)
+
+## 🚀 Selected Projects
+
+- **TigerCensus** — Individual tiger re-identification using deep learning (CV, Siamese Networks)
+- **German Bank Loan Default Prediction** — Recall-optimized risk modeling
+- **MediBot** — LLM-powered medical conversational assistant
+
+## 🧪 Background
+
+- Project Research Scientist — Humanitarian Technology Labs (ICMR-funded)
+- MS in Machine Learning — University of Arizona
+
+## 📫 Find Me Online
+
+- LinkedIn: https://www.linkedin.com/in/prasanNH
+- Medium: https://medium.com/@prasanNH
+- Kaggle: https://www.kaggle.com/prasannnh
