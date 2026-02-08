@@ -1,4 +1,4 @@
-# Hi, I'm Prasan 👋
+# Namaskaram 🙏, I'm Prasan
 
 Machine Learning Engineer with industry and research experience building real-world AI systems.
 My work spans LLM-powered conversational AI, computer vision, predictive modeling, and applied robotics.
